@@ -2,7 +2,7 @@
 
 ## Um pouco sobre mim
 
-👨‍🎓 Graduando de Ciência da Computação na UFBA 
+👨‍🎓 Graduando de Engenharia da Computação na UFBA 
 
 🤝 Desenvolvedor Web da TITAN - Empresa Júnior de Engenharia da Computação [<img align="center" width="6%" src="https://titanci.com.br/assets/img/logo-com-nome.png"/>](https://titanci.com.br)<br />
 
